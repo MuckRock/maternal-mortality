@@ -195,11 +195,12 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
   For the Minnesota data, MaryJo Webster of the Minneapolis Star-Tribune provided both data and guidance.
   
   For the North Carolina data, Tyler Dukes of the Raleigh News & Observer provided code that helped us process the data in a readable format.
-#### Cite us 
+#### How to cite the data and MuckRock 
 We ask that all republication and citation of our materials include a note that the reporting was originally published by MuckRock and include a link back to the original version. When republishing, this credit should be included at the top of the piece.
 
-Sample language: This story was originally published by MuckRock, a nonprofit journalism organization.
-#### Republish our stories 
+***Sample language: This story was originally published by MuckRock, a nonprofit journalism organization.***
+
+#### How to republish our work
 We publish certain stories, data and other assets under a Creative Commons license and most code and data analysis scripts under an open source license. You are welcome and encouraged to reuse these under the terms of the given license, but please ensure that you understand any restrictions. For example, certain Creative Commons licenses allow reuse but only if you do not edit the underlying material.
 
-Sample language: This story was originally published by MuckRock, a nonprofit journalism organization. It is republished under a Creative Commons (BY-ND 4.0) license.
+***Sample language: This story was originally published by MuckRock, a nonprofit journalism organization. It is republished under a Creative Commons (BY-ND 4.0) license.***
