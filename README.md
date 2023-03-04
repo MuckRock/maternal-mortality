@@ -1,5 +1,16 @@
 # Maternal mortality data from the CDC and Michigan, Minnesota & North Carolina
-A repository of the Centers for Disease Control and Prevention’s National Center for Health Statistics maternal mortality data, starting from January 2018 and current, as of February 2023; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in 2020, 2021 and provisional data from 2022.
+A repository of the Centers for Disease Control and Prevention’s National Center for Health Statistics maternal mortality data, starting from January 2018 and current, as of March 2023; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in 2020, 2021 and provisional data from 2022.
+
+## Glossary of maternal mortality terms
+
+| term | description  
+|   :---    |    :---- |  
+| pregnancy-associated death | a death that occurred during pregnancy or within one year postpartum but not directly tied to the pregnancy, such as a postpartum death in a car accident |
+|  pregnancy-related death | a death found to be related to health problems from the pregnancy, such as obstetric hemorrhage or pre-eclampsia, among other causes. |
+| underlying cause of death | the one disease or injury that initiated the chain of events leading directly to death, sometimes referred to as the lead cause of death |
+| immediate or multiple cause of death | other factors that contributed to someone's death, with up to 20 being included on a death certificate |
+| ICD-10 | the International Classification of Diseases, 10th revision, used by both the Centers for Disease Control and Prevention and the World Health Organization to define causes of death |
+| pregnancy checkbox | widely adopted by states for death certificates starting in 2017, there are five checkboxes to indicate pregnancy or a recent pregnancy, or if it's unknown by the person certifying the document |
 
 ## CDC maternal mortality data
 
@@ -61,7 +72,7 @@ The U.S. Centers for Medicaid & Medicare Services has .xls files for billable an
 
 2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states. Rather, it can be used to evaluate "point-in-time" counts ahead of the data becoming final, which is typically at least six months after the end of the calendar year.
 
-The Minnesota and North Carolina death certificate data includes pregnancy checkbox details while the Michigan data does not. That means the Minnesota and North Carolina data allows us to capture deaths during and shortly after pregnancy that are “pregnancy-associated,” meaning death occurred during pregnancy or within one year postpartum but the death was not directly tied to the pregnenancy, such as a postpartum death in a car accident, and those that are “pregnancy-related," meaning the death was found to be related to health problems from the pregnancy, such as obstetric hemorrhage or pre-eclampsia, among other causes.
+The Minnesota and North Carolina death certificate data includes pregnancy checkbox details while the Michigan data does not. That means the Minnesota and North Carolina data allows us to capture deaths during and shortly after pregnancy that are either “pregnancy-associated” or “pregnancy-related."
 
 The Michigan data does not allow us to look at the broader number of “pregnancy-associated” deaths and, as a result, is more limited.
 
