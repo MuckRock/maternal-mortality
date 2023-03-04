@@ -126,6 +126,20 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
   ### Credit and terms
   #### Reach out 
   We work to have our reporting and analysis available to a wide audience, often through distribution partnerships and syndication. If you are interested in republishing or adapting our work and it does not explicitly note that it is allowable for republishing, or if you would like clarifications about restrictions or to learn more about the underlying information, please email us at news@muckrock.com.
+  #### Acknowledgments
+  For the CDC data, the following experts provided subject-matter expertise and context for our data analysis: 
+  
+  •	Sungsik Hwang, Graduate Student, Center for Demography and Ecology, University of Wisconsin, Madison
+  
+  •	Dr. Jenna Nobles, Professor, Department of Sociology, Center for Demography and Ecology, University of Wisconsin, Madison
+  
+  •	Dr. Andrew C. Stokes, Assistant Professor, Departments of Sociology and Global Health, Boston University School of Public Health
+  
+  •	Dr. Marie Thoma, Associate Professor, Department of Family Science, University of Maryland School of Public Health
+    
+  For the Minnesota data, MaryJo Webster of the Minneapolis Star-Tribune provided both data and guidance.
+  
+  For the North Carolina data, Tyler Dukes of the Raleigh News & Observer provided code that helped us process the data in a readable format.
 #### Cite us 
 We ask that all republication and citation of our materials include a note that the reporting was originally published by MuckRock and include a link back to the original version. When republishing, this credit should be included at the top of the piece.
 
