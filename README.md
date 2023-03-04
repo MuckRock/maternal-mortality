@@ -65,15 +65,23 @@ A data dictionary for Minnesota data in its original form is available in this r
 
 The data is sorted into final year 2020, final year 2021 and provisional year 2022, with a filter on deaths that have been indicated as recently (within 1 year) or currently pregnant at the time of death. The following counts of pregnancy checkbox deaths in Minnesota, oftentimes referred to by researchers as pregnancy-associated deaths, are as follows:
 
+
 •	2020: 33
+
 •	2021: 38
+
 •	2022 (as of March 2023, provisional): 18
+
 
 Within the Minnesota dataset are pregnancy checkbox details — a one-digit code and full text terms used to describe the type of pregnancy at the time of decedent’s death. They are as follows:
 
+
 •	“2” = “Pregnant at Time of Death”
+
 •	“3” = “Not Pregnant, But Pregnant Within 42 Days of Death”
+
 •	“4” = “Not Pregnant, But Pregnant 43 Days to 1 Year Before Death”
+
 
 In two cases, specific place of death information in the “place_of_death_type” field was edited to remove the named roadways and were replaced with the term: “roadway.”
 
@@ -89,15 +97,23 @@ A data dictionary for North Carolina data in its original form is available in t
 
 The data is sorted into final year 2020, final year 2021 and provisional year 2022, with a filter on deaths that have been indicated as recently (within 1 year) or currently pregnant at the time of death. The following counts of pregnancy checkbox deaths in North Carolina, oftentimes referred to by researchers as pregnancy-associated deaths, are as follows:
 
+
 •	2020: 147
+
 •	2021: 174
+
 •	2022 (as of March 2023, provisional): 122
+
 
 Within the pregnancy checkbox is the following one-digit code and what it refers to:
 
+
 •	“2” = “Pregnant at Time of Death”
+
 •	“3” = “Not Pregnant, But Pregnant Within 42 Days of Death”
+
 •	“4” = “Not Pregnant, But Pregnant 43 Days to 1 Year Before Death”
+
 
   ### Credit and terms
   #### Reach out 
