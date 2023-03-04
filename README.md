@@ -1,7 +1,7 @@
-# maternal-mortality
+# Maternal mortality data from the CDC and Michigan, Minnesota & North Carolina
 A repository of the Centers for Disease Control and Prevention’s National Center for Health Statistics maternal mortality data, starting from January 2018 and current, as of February 2023; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in 2020, 2021 and provisional data from 2022.
 
-CDC maternal mortality data
+## CDC maternal mortality data
 
 The CDC data relies on the 27 underlying cause of death, or ICD-10, codes defined as pregnancy-related. The latest refresh of the CDC encompasses deaths occurring through January 21, 2023, as of February 5, 2023. But there is a lag in reporting deaths, which can take as long as six months depending on the jurisdiction. 
 
@@ -14,9 +14,9 @@ Below is the suggested citation for the CDC data:
 
 Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.
 
-Michigan, Minnesota and North Carolina maternal mortality data
+## Michigan, Minnesota and North Carolina maternal mortality data
 
-Why MuckRock analyzed maternal deaths from these three states
+## Why MuckRock analyzed maternal deaths from these three states
 
 MuckRock chose to analyze death certificate data from these states for two reasons:
 
@@ -27,7 +27,7 @@ As a result, similar death certificate data from New Mexico, which is exhaustive
 
 Other datasets from major metro areas, including Chicago’s Cook County and California’s San Francisco, San Diego and Los Angeles counties, only include deaths reviewed or certified by medical examiners or affiliated entities, making a complete analysis of maternal deaths in a given jurisdiction impossible.
 
-Why MuckRock redacted and excluded identifying information from this release
+## Why MuckRock redacted and excluded identifying information from this release
 
 MuckRock chose to remove most personally-identifying information, or PII, from these records in order to protect the privacy of decedents, next of kin, certifiers and funeral homes while still preserving the fields that can shed light on the demographic profiles of those that have died, including race, ethnicity, age, resident county, death year, manner of death and specific causes of death.
 
@@ -37,11 +37,11 @@ For more information about MuckRock’s editorial and ethics policies, you can r
 
 If you have questions or concerns about our release of these public records or data or questions about our methodology for excluding most personally-identifying information from these records, you can email us at news@muckrock.com. 
 
-How to analyze state death data with lookup tools
+## How to analyze state death data with lookup tools
 
 To interpret underlying or multiple cause of death codes found in this data, please refer to the WHO’s ICD-10 lookup tool, found here: 
 
-Limitations and caveats
+## Limitations and caveats
 
 2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states.
 
@@ -51,13 +51,13 @@ The Michigan data does not allow us to look at the broader number of “pregnanc
 
 Below are other state-level details, caveats and data dictionary information for Michigan, Minnesota and North Carolina. 
 
-Michigan
+## Michigan
 
 The Michigan dataset includes 27 fields, all of which are found in the original file provided by the Michigan Department of Health and Human Services through a data-use agreement. The two provided years are final 2020 and 2021 data.
 
 The Michigan data does not include pregnancy checkbox information but it does included both underlying cause of death and multiple cause of death codes.
 
-Minnesota
+## Minnesota
 
 Depending on the year, the Minnesota dataset includes either 113 or 114 fields, all of which are found in the original file provided by the state. The 2020 Minnesota dataset does not include a pregnancy checkbox code but does include the pregnancy checkbox text. The 2021 and 2022 Minnesota datasets include both the pregnancy checkbox code and text.
 
@@ -79,7 +79,7 @@ In two cases, specific place of death information in the “place_of_death_type�
 
 In two cases from 2020, “unknown” pregnancy checkbox deaths were included in our analysis because their underlying and immediate cause of death codes were one of the 27 maternal mortality-related codes defined by the CDC. They are indicated as “unknown” in the field “decedent_pregnancy_description.”
 
-North Carolina
+## North Carolina
 
 The North Carolina dataset includes 52 fields, including 10 fields not found in the original file that have been created by MuckRock for codes related to multiple, or immediate, causes of death. 
 
@@ -98,3 +98,15 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
 •	“2” = “Pregnant at Time of Death”
 •	“3” = “Not Pregnant, But Pregnant Within 42 Days of Death”
 •	“4” = “Not Pregnant, But Pregnant 43 Days to 1 Year Before Death”
+
+  ### Give us some credit 
+  #### Reach out 
+  We work to have our reporting and analysis available to a wide audience, often through distribution partnerships and syndication. If you are interested in republishing or adapting our work and it does not explicitly note that it is allowable for republishing, or if you would like clarifications about restrictions or to learn more about the underlying information, please email us at news@muckrock.com.
+#### Cite us 
+We ask that all republication and citation of our materials include a note that the reporting was originally published by MuckRock and include a link back to the original version. When republishing, this credit should be included at the top of the piece.
+
+Sample language: This story was originally published by MuckRock, a nonprofit journalism organization.
+#### Republish our stories 
+We publish certain stories, data and other assets under a Creative Commons license and most code and data analysis scripts under an open source license. You are welcome and encouraged to reuse these under the terms of the given license, but please ensure that you understand any restrictions. For example, certain Creative Commons licenses allow reuse but only if you do not edit the underlying material.
+
+Sample language: This story was originally published by MuckRock, a nonprofit journalism organization. It is republished under a Creative Commons (BY-ND 4.0) license.
