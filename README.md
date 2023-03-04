@@ -28,18 +28,26 @@ The CDC maternal mortality death codes are the following:
 Relying on these 27 cause of death codes, we have compiled four sets of maternal mortality data. They are described below:
 
 
-• Maternal mortality count and rate, by quarter and year:
+• ***Maternal mortality count and rate, by quarter and year:*** Through the third quarter of 2022, this maternal mortality count and rate is based on nationwide totals and either an actual or estimated number and rate of live births by the CDC's National Center for Health Statistics. All 2022 data is still provisional and subject to change, as jurisdictions continue to process the previoys years death certificates into 2023. A saved CDC WONDER query for the overall maternal mortality count and a crude population ratio per 100,000 people is [available here](https://wonder.cdc.gov/controller/saved/D176/D297F248).
 
-• Maternal mortality count and rate, by single-race six:
+• ***Maternal mortality count and rate, by race:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of white, Black, Asian and Native deaths, as defined by the CDC.
 
-• Maternal mortality count and rate, by ethnicity:
+• ***Maternal mortality count and rate, by ethnicity:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of non-Hispanic white and Hispanic deaths, as defined by the CDC.
 
-• Maternal mortality count and rate, by state:
+• ***Maternal mortality count and rate, by state:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of deaths in 24 states where there have been at least nine pregnancy-related deaths each year between 2018 and 2021.
 
 
 Below is the suggested citation for the CDC data:
 
 Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.
+
+### Limitations and caveats
+
+The CDC's maternal mortality data relies exclusively on death certificates. If those death certificates are lacking or omit key information, as we have found as part of our Uncounted project, it skews the overall picture of a cause of death, especially for causes that are comparatively few in number like a pregnancy-related death. 
+
+The CDC has told us this data is reviewed and audited on a monthly basis, and checked against what is described in the pregnancy checkbox. But because the pregnancy checkbox detail is not provided for each record, it is diffcult to assess the accuracy of provisional data versus the finalized data, typically six months to one year after the end of the calendar year.
+
+Because this data only looks at pregnancy-related, and not pregnancy-associated deaths, cases where a pregnancy played a key role in a death, such as an accidental drug overdose or a suicide, might not be counted in the CDC data. State-coordinated maternal mortality review committees, or MMRCs, have found that the true number of pregnancy-related deaths is roughly 30% to 40% higher than the CDC figures.
 
 ## Michigan, Minnesota and North Carolina maternal mortality data
 
@@ -82,7 +90,7 @@ The World Health Organization has a similar tool, which provides detail on the c
 
 The U.S. Centers for Medicaid & Medicare Services has .xls files for billable and non-billable ICD-10 codes on its website. Please note that there are differences in the formatting of codes in these files and to properly "join" the data, you would need to combine the billable and non-billable files: https://www.cms.gov/medicare/coordination-benefits-recovery-overview/icd-code-lists
 
-### Limitations, caveats and terms used in the records
+### Limitations and caveats
 
 2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states. Rather, it can be used to evaluate "point-in-time" counts ahead of the data becoming final, which is typically at least six months after the end of the calendar year.
 
