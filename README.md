@@ -25,13 +25,21 @@ MuckRock chose to analyze death certificate data from these states for two reaso
 1.	Michigan, Minnesota and North Carolina provided exhaustive death certificate data encompassing all deaths in a given time period, regardless of whether the death had been reviewed by a medical examiner or coroner or occurred in an inpatient or outpatient setting.
 2.	Data from these states included either pregnancy checkbox information or underlying and multiple, or immediate, cause of death codes, allowing for further analysis on the number of pregnancy-related and pregnancy-associated deaths.
 
-As a result, similar death certificate data from New Mexico, which is exhaustive but does not include pregnancy checkbox information nor underlying and multiple cause of death codes, proved insufficient for our analyses. 
+As a result, similar death certificate data from a state like New Mexico, which is exhaustive but does not include pregnancy checkbox information nor underlying and multiple cause of death codes, proved insufficient for our analyses. 
 
-Other datasets from major metro areas, including Chicago’s Cook County and California’s San Francisco, San Diego and Los Angeles counties, only include deaths reviewed or certified by medical examiners or affiliated entities, making a complete analysis of maternal deaths in a given jurisdiction impossible.
+Other datasets from major metro areas, including Chicago’s Cook County and California’s Los Angeles, San Diego and San Francisco counties, only include deaths reviewed or certified by medical examiners or affiliated entities, making a complete analysis of maternal deaths in a given jurisdiction impossible.
+
+The original sources of the state data are as follows:
+
+•	Michigan Department of Health and Human Services, Division for Vital Records and Health Statistics
+
+•	Minnesota Department of Health, Office of Vital Records
+
+•	North Carolina Department of Health and Human Services, Division of Public Health, State Center for Health Statistics
 
 ### Why MuckRock redacted and excluded identifying information from this release
 
-We chose to remove most personally-identifying information, or PII, from these records in order to protect the privacy of decedents, next of kin, certifiers and funeral homes while still preserving the fields that can shed light on the demographic profiles of those that have died, including race, ethnicity, age, resident county, death year, manner of death and specific causes of death.
+We chose to remove most personally-identifying information, or PII, from these records in order to protect the privacy of decedents, next of kin, certifiers and funeral homes while still preserving the fields that help explain the demographic profiles of those that have died, including race, ethnicity, age, resident county, death year, manner of death and specific causes of death.
 
 Despite these redactions, it is possible to search for public obituaries using the provided data and, in some cases, find the identity of those that have died. This is true with any death certificate data available for public inspection and release and, in its raw form, this data is a public record, according to state statutes.
 
@@ -51,11 +59,11 @@ The U.S. Centers for Medicaid & Medicare Services has .xls files for billable an
 
 ### Limitations, caveats and terms used in the records
 
-2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states.
+2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states. Rather, it can be used to evaluate "point-in-time" counts ahead of the data becoming final, which is typically at least six months after the end of the calendar year.
 
 The Minnesota and North Carolina death certificate data includes pregnancy checkbox details while the Michigan data does not. That means the Minnesota and North Carolina data allows us to capture deaths during and shortly after pregnancy that are “pregnancy-associated,” meaning death occurred during pregnancy or within one year postpartum but the death was not directly tied to the pregnenancy, such as a postpartum death in a car accident, and those that are “pregnancy-related," meaning the death was found to be related to health problems from the pregnancy, such as obstetric hemorrhage or pre-eclampsia, among other causes.
 
-The Michigan data does not allow us to look at the broader number of “pregnancy-associated” deaths and, as a result, is limited.
+The Michigan data does not allow us to look at the broader number of “pregnancy-associated” deaths and, as a result, is more limited.
 
 Below are other state-level details, caveats and data dictionary information for Michigan, Minnesota and North Carolina. 
 
@@ -63,7 +71,9 @@ Below are other state-level details, caveats and data dictionary information for
 
 The Michigan dataset includes 27 fields, all of which are found in the original file provided by the Michigan Department of Health and Human Services through a data-use agreement we signed for de-identified data in June 2022. The two provided years are final 2020 and 2021 data.
 
-The Michigan data does not include pregnancy checkbox information but it does included both underlying cause of death and multiple cause of death codes.
+A data dictionary of all of the Michigan death certificate data is available in this repository, with the file, "mi_maternal_deaths_data_dictionary.xlsx."
+
+The Michigan data does not include pregnancy checkbox information but it does include both underlying cause of death and multiple cause of death codes.
 
 The following counts of pregnancy-related deaths in Michigan by year, are as follows:
 
@@ -73,7 +83,7 @@ The following counts of pregnancy-related deaths in Michigan by year, are as fol
 
 ### Minnesota
 
-Depending on the year, the Minnesota dataset includes either 113 or 114 fields, all of which are found in the original file provided by the state. The 2020 Minnesota dataset does not include a pregnancy checkbox code but does include the pregnancy checkbox text. The 2021 and 2022 Minnesota datasets include both the pregnancy checkbox code and text.
+Depending on the year, the Minnesota dataset includes either 113 or 114 fields, all of which are found in the original file provided by the Minnesota Department of Health's Office of Vital Records. The 2020 Minnesota dataset does not include a pregnancy checkbox code but does include the pregnancy checkbox text. The 2021 and 2022 Minnesota datasets include both the pregnancy checkbox code and text.
 
 A data dictionary for Minnesota data in its original form is available in this repository — mn_maternal_mortality_data_dictionary.xls — and fields highlighted in yellow have been excluded from this public release in order to preserve identification of the decedent or next of kin.
 
@@ -103,7 +113,7 @@ In two cases from 2020, “unknown” pregnancy checkbox deaths were included in
 
 ### North Carolina
 
-The North Carolina dataset includes 52 fields, including 10 fields not found in the original file that have been created by MuckRock for codes related to multiple, or immediate, causes of death. 
+The North Carolina dataset includes 52 fields, 42 of which were provided in the original file by the North Carolina Department of Health and Human Services, Division of Public Health, State Center for Health Statistics. The data also includes 10 fields not found in the original file that have been created by MuckRock for codes related to multiple, or immediate, causes of death. 
 
 The 10 new codes are labeled rac1 through rac10. 
 
