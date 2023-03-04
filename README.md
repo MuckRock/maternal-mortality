@@ -35,7 +35,7 @@ We chose to remove most personally-identifying information, or PII, from these r
 
 Despite these redactions, it is possible to search for public obituaries using the provided data and, in some cases, find the identity of those that have died. This is true with any death certificate data available for public inspection and release and, in its raw form, this data is a public record, according to state statutes.
 
-For more information about MuckRock’s editorial and ethics policies, you can read it here:
+For more information about MuckRock’s editorial and ethics policies, you can read it here: https://www.muckrock.com/news/editorial-policy/
 
 If you have questions or concerns about our release of these public records or data or questions about our methodology for excluding most personally-identifying information from these records, you can email us at news@muckrock.com. 
 
