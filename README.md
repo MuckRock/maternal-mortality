@@ -98,4 +98,3 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
 •	“2” = “Pregnant at Time of Death”
 •	“3” = “Not Pregnant, But Pregnant Within 42 Days of Death”
 •	“4” = “Not Pregnant, But Pregnant 43 Days to 1 Year Before Death”
-![image](https://user-images.githubusercontent.com/90628055/222923074-a21f7b77-5fe3-4ac6-8548-cc0c68ad69bf.png)
