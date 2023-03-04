@@ -1,5 +1,9 @@
 # Maternal mortality data from the CDC and Michigan, Minnesota & North Carolina
-A repository of the Centers for Disease Control and Prevention’s National Center for Health Statistics maternal mortality data, starting from January 2018 and current, as of March 2023; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in 2020, 2021 and provisional data from 2022.
+A repository of the Centers for Disease Control and Prevention’s National Center for Health Statistics maternal mortality data, from January 2018 through December 2022; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in 2020, 2021 and provisional data from 2022.
+
+## About this project
+
+Since 2020, MuckRock has collected death certificate from a variety of sources, including the CDC and a selection of state and large counties. Given the spike in maternal deaths during the pandemic, we began seeking out additional data sources to help explain the myriad reasons behind the increase.
 
 ## Glossary of maternal mortality terms
 
@@ -176,6 +180,8 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
   #### Reach out 
   We work to have our reporting and analysis available to a wide audience, often through distribution partnerships and syndication. If you are interested in republishing or adapting our work and it does not explicitly note that it is allowable for republishing, or if you would like clarifications about restrictions or to learn more about the underlying information, please email us at news@muckrock.com.
   #### Acknowledgments
+  Nina Martin of the Center for Investigative Reporting/Reveal worked with MuckRock throughout its data collection and reporting process.
+  
   For the CDC data, the following experts provided subject-matter expertise and context for our data analysis: 
   
   •	Sungsik Hwang, Graduate Student, Center for Demography and Ecology, University of Wisconsin, Madison
