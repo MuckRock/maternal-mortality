@@ -22,7 +22,7 @@ Centers for Disease Control and Prevention, National Center for Health Statistic
 
 MuckRock chose to analyze death certificate data from these states for two reasons:
 
-1.	Michigan, Minnesota and North Carolina provided exhaustive death certificate data encompassing all deaths in a given time period, regardless of whether the death had been reviewed by a medical examiner or coroner or occurred in an inpatient or outpatient setting and;
+1.	Michigan, Minnesota and North Carolina provided exhaustive death certificate data encompassing all deaths in a given time period, regardless of whether the death had been reviewed by a medical examiner or coroner or occurred in an inpatient or outpatient setting.
 2.	Data from these states included either pregnancy checkbox information or underlying and multiple, or immediate, cause of death codes, allowing for further analysis on the number of pregnancy-related and pregnancy-associated deaths.
 
 As a result, similar death certificate data from New Mexico, which is exhaustive but does not include pregnancy checkbox information nor underlying and multiple cause of death codes, proved insufficient for our analyses. 
