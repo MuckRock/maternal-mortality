@@ -7,7 +7,9 @@ The CDC data relies on the 27 underlying cause of death, or ICD-10, codes define
 
 The CDC maternal mortality death codes are the following: 
 
+
 •	A34 (Obstetrical tetanus)
+
 •	O00 through O99 (Pregnancy, childbirth and the puerperium)
 
 Below is the suggested citation for the CDC data:
@@ -29,7 +31,7 @@ Other datasets from major metro areas, including Chicago’s Cook County and Cal
 
 ### Why MuckRock redacted and excluded identifying information from this release
 
-MuckRock chose to remove most personally-identifying information, or PII, from these records in order to protect the privacy of decedents, next of kin, certifiers and funeral homes while still preserving the fields that can shed light on the demographic profiles of those that have died, including race, ethnicity, age, resident county, death year, manner of death and specific causes of death.
+We chose to remove most personally-identifying information, or PII, from these records in order to protect the privacy of decedents, next of kin, certifiers and funeral homes while still preserving the fields that can shed light on the demographic profiles of those that have died, including race, ethnicity, age, resident county, death year, manner of death and specific causes of death.
 
 Despite these redactions, it is possible to search for public obituaries using the provided data and, in some cases, find the identity of those that have died. This is true with any death certificate data available for public inspection and release and, in its raw form, this data is a public record, according to state statutes.
 
@@ -53,9 +55,15 @@ Below are other state-level details, caveats and data dictionary information for
 
 ### Michigan
 
-The Michigan dataset includes 27 fields, all of which are found in the original file provided by the Michigan Department of Health and Human Services through a data-use agreement. The two provided years are final 2020 and 2021 data.
+The Michigan dataset includes 27 fields, all of which are found in the original file provided by the Michigan Department of Health and Human Services through a data-use agreement we signed for de-identified data in June 2022. The two provided years are final 2020 and 2021 data.
 
 The Michigan data does not include pregnancy checkbox information but it does included both underlying cause of death and multiple cause of death codes.
+
+The following counts of pregnancy-related deaths in Michigan by year, are as follows:
+
+•	2020: 40
+
+•	2021: 35
 
 ### Minnesota
 
