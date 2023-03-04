@@ -29,9 +29,13 @@ Relying on these 27 cause of death codes, we have compiled four sets of maternal
 
 
 • Maternal mortality count and rate, by quarter and year:
+
 • Maternal mortality count and rate, by single-race six:
+
 • Maternal mortality count and rate, by ethnicity:
+
 • Maternal mortality count and rate, by state:
+
 
 Below is the suggested citation for the CDC data:
 
