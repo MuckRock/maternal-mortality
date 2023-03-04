@@ -25,6 +25,14 @@ The CDC maternal mortality death codes are the following:
 
 •	O00 through O99 (Pregnancy, childbirth and the puerperium)
 
+Relying on these 27 cause of death codes, we have compiled four sets of maternal mortality data. They are described below:
+
+
+• Maternal mortality count and rate, by quarter and year:
+• Maternal mortality count and rate, by single-race six:
+• Maternal mortality count and rate, by ethnicity:
+• Maternal mortality count and rate, by state:
+
 Below is the suggested citation for the CDC data:
 
 Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.
