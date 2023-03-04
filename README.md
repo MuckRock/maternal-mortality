@@ -16,6 +16,8 @@ A repository of the Centers for Disease Control and Prevention’s National Cent
 
 The CDC data relies on the 27 underlying cause of death, or ICD-10, codes defined as pregnancy-related. The latest refresh of the CDC encompasses deaths occurring through January 21, 2023, as of February 5, 2023. But there is a lag in reporting deaths, which can take as long as six months depending on the jurisdiction. 
 
+MuckRock signed a data-use agreement with the CDC's National Center for Health Statistics in 2021 to access mortality data. Since then, the CDC has updated its WONDER query tool to allow the public and researchers to access new mortality data on a monthly basis, typically on the first Thursday of each month. Together, with the data-use agreement data used as part of [our Uncounted death certificate project](https://www.muckrock.com/covid-uncounted/), and the WONDER query tool, we routinely pull four sets of data about maternal mortality in the U.S.
+
 The CDC maternal mortality death codes are the following: 
 
 
