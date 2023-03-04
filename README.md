@@ -49,11 +49,11 @@ The World Health Organization has a similar tool, which provides detail on the c
 
 The U.S. Centers for Medicaid & Medicare Services has .xls files for billable and non-billable ICD-10 codes on its website. Please note that there are differences in the formatting of codes in these files and to properly "join" the data, you would need to combine the billable and non-billable files: https://www.cms.gov/medicare/coordination-benefits-recovery-overview/icd-code-lists
 
-### Limitations and caveats
+### Limitations, caveats and terms used in the records
 
 2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states.
 
-The Minnesota and North Carolina death certificate data includes pregnancy checkbox details while the Michigan data does not. That means the Minnesota and North Carolina data allows us to capture deaths during and shortly after pregnancy that are “pregnancy-associated” and those that are “pregnancy-related.”
+The Minnesota and North Carolina death certificate data includes pregnancy checkbox details while the Michigan data does not. That means the Minnesota and North Carolina data allows us to capture deaths during and shortly after pregnancy that are “pregnancy-associated,” meaning death occurred during pregnancy or within one year postpartum but the death was not directly tied to the pregnenancy, such as a postpartum death in a car accident, and those that are “pregnancy-related," meaning the death was found to be related to health problems from the pregnancy, such as obstetric hemorrhage or pre-eclampsia, among other causes.
 
 The Michigan data does not allow us to look at the broader number of “pregnancy-associated” deaths and, as a result, is limited.
 
