@@ -41,7 +41,13 @@ If you have questions or concerns about our release of these public records or d
 
 ### How to analyze state death data with lookup tools
 
-To interpret underlying or multiple cause of death codes found in this data, please refer to the WHO’s ICD-10 lookup tool, found here: 
+To interpret underlying or multiple cause of death codes found in this data, there are several different lookup tools available. Here are three of the most frequently-used options:
+
+The American Medical Association provides an easy-to-navigate codes lookup tool called Codify, available here: https://www.aapc.com/codes/icd-10-codes-range/
+
+The World Health Organization has a similar tool, which provides detail on the conditions and causes of certain codes, available here: https://icd.who.int/browse10/2019/en#/
+
+The U.S. Centers for Medicaid & Medicare Services has .xls files for billable and non-billable ICD-10 codes on its website. Please note that there are differences in the formatting of codes in these files and to properly "join" the data, you would need to combine the billable and non-billable files: https://www.cms.gov/medicare/coordination-benefits-recovery-overview/icd-code-lists
 
 ### Limitations and caveats
 
