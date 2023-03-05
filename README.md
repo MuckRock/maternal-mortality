@@ -7,6 +7,8 @@ Since the COVID-19 pandemic began in 2020, [MuckRock and Columbia University's B
 
 What we found: COVID-19 severely worsened the health of new mothers in U.S., which already had the worst maternal mortality rate of any Western country. And post-COVID, things are only getting worse. Despite the availability of vaccines and a nationwide push to bolster the health of new and recent mothers, the rate of maternal death in 2022 is already higher than pre-pandemic 2019, based on early, provisional data.
 
+It bears repeating: Multiple studies from both the CDC and state maternal mortality review committees have found that anywhere between 80% and all pregnancy-related deaths are preventable.
+
 Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. ***We'll be refreshing this repository on a monthly basis, beginning March 13 when the CDC releases its final 2021 maternal mortality data. All updates to the data will be noted and appended to the bottom of this readme.***
 
 The data in this repository was requested, collected and analyzed by the following data scientists and journalists: Karen Wang, Columbia University's Brown Institute for Media Innovation and MuckRock; Dillon Bergin, MuckRock; and Derek Kravitz, MuckRock.
