@@ -3,7 +3,9 @@ A repository of the Centers for Disease Control and Prevention’s National Cent
 
 ## About this project
 
-Since 2020, MuckRock has collected death certificate from a variety of sources, including the CDC and a selection of state and large counties. Given the spike in maternal deaths during the pandemic, we began seeking out additional data sources to help explain the myriad reasons behind the increase.
+Since the COVID-19 pandemic began in 2020, [MuckRock and Columbia University's Brown Institue for Media Innovation have collected death certificate data]((https://www.muckrock.com/covid-uncounted/)) from a variety of sources, including the CDC and a selection of states and large counties. Given the spike in maternal deaths in 2020 and 2021, we began seeking out additional data sources to help explain the myriad reasons behind the increase. What we found: COVID-19 severely exacerbated the health of new mothers in U.S., which already had the worst maternal mortality rate of any Western country. And post-COVID, things are only getting worse. Despite the availability of vaccines and a nationwide push to bolster the health of new and recent mothers, the rate of maternal death in 2022 is already higher than pre-pandemic 2019, based on early, provisional data.
+
+Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. ***We'll be refreshing this repository on a monthly basis, beginning March 13 when the CDC releases its final 2021 maternal mortality data. All updates to the data will be noted and appended to the bottom of this readme.***
 
 ## Glossary of maternal mortality terms
 
