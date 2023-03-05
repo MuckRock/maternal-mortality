@@ -47,7 +47,7 @@ Below is the suggested citation for the CDC data:
 
 Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021, and from provisional data for years 2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.
 
-### Limitations and caveats
+### Limitations and caveats of the CDC data
 
 The CDC's maternal mortality data relies exclusively on death certificates. If those death certificates are lacking or omit key information, as we have found as part of our Uncounted project, it skews the overall picture of a cause of death, especially for causes that are comparatively few in number like a pregnancy-related death. 
 
@@ -96,7 +96,7 @@ The World Health Organization has a similar tool, which provides detail on the c
 
 The U.S. Centers for Medicaid & Medicare Services has .xls files for billable and non-billable ICD-10 codes on its website. Please note that there are differences in the formatting of codes in these files and to properly "join" the data, you would need to combine the billable and non-billable files: https://www.cms.gov/medicare/coordination-benefits-recovery-overview/icd-code-lists
 
-### Limitations and caveats
+### Limitations and caveats of the state data
 
 2022 data for Minnesota and North Carolina is provisional, as of March 2023. It will be updated and made final in mid-2023, and file names will be changed to reflect the shift from provisional to final. As a result, provisional data should not be used to analyze year-over-year trends in these states. Rather, it can be used to evaluate "point-in-time" counts ahead of the data becoming final, which is typically at least six months after the end of the calendar year.
 
