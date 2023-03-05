@@ -1,9 +1,11 @@
 # Maternal mortality data from the CDC and Michigan, Minnesota & North Carolina
-A repository of the Centers for Disease Control and Prevention’s National Center for Health Statistics maternal mortality data, from January 2018 through December 2022; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in 2020, 2021 and provisional data from 2022.
+A repository of U.S. maternal mortality data from the Centers for Disease Control and Prevention’s National Center for Health Statistics, from January 2018 through December 2022; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in calendar years 2020, 2021 and provisional data from 2022.
 
 ## About this project
 
-Since the COVID-19 pandemic began in 2020, [MuckRock and Columbia University's Brown Institue for Media Innovation have collected death certificate data]((https://www.muckrock.com/covid-uncounted/)) from a variety of sources, including the CDC and a selection of states and large counties. Given the spike in maternal deaths in 2020 and 2021, we began seeking out additional data sources to help explain the myriad reasons behind the increase. What we found: COVID-19 severely exacerbated the health of new mothers in U.S., which already had the worst maternal mortality rate of any Western country. And post-COVID, things are only getting worse. Despite the availability of vaccines and a nationwide push to bolster the health of new and recent mothers, the rate of maternal death in 2022 is already higher than pre-pandemic 2019, based on early, provisional data.
+Since the COVID-19 pandemic began in 2020, [MuckRock and Columbia University's Brown Institue for Media Innovation have collected death certificate data]((https://www.muckrock.com/covid-uncounted/)) from a variety of sources, including the CDC and a selection of states and large counties, through data-use agreement with government agencies and open-records requests. Given the spike in maternal deaths in 2020 and 2021, we began seeking out additional data sources to help explain the myriad reasons behind the increase. 
+
+What we found: COVID-19 severely worsened the health of new mothers in U.S., which already had the worst maternal mortality rate of any Western country. And post-COVID, things are only getting worse. Despite the availability of vaccines and a nationwide push to bolster the health of new and recent mothers, the rate of maternal death in 2022 is already higher than pre-pandemic 2019, based on early, provisional data.
 
 Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. ***We'll be refreshing this repository on a monthly basis, beginning March 13 when the CDC releases its final 2021 maternal mortality data. All updates to the data will be noted and appended to the bottom of this readme.***
 
@@ -22,7 +24,7 @@ Below, you'll find a methodology for the datasets in this repository, including 
 
 The CDC data relies on the 27 underlying cause of death, or ICD-10, codes defined as pregnancy-related. The latest refresh of the CDC encompasses deaths occurring through January 21, 2023, as of February 5, 2023. But there is a lag in reporting deaths, which can take as long as six months depending on the jurisdiction. 
 
-MuckRock signed a data-use agreement with the CDC's National Center for Health Statistics in 2021 to access mortality data. Since then, the CDC has updated its WONDER query tool to allow the public and researchers to access new mortality data on a monthly basis, typically on the first Thursday of each month. Together, with the data-use agreement data used as part of [our Uncounted death certificate project](https://www.muckrock.com/covid-uncounted/), and the WONDER query tool, we routinely pull four sets of data about maternal mortality in the U.S.
+MuckRock signed a data-use agreement with the CDC's National Center for Health Statistics in 2021 to access mortality data. Since then, the CDC has updated its WONDER query tool to allow the public and researchers to access new mortality data on a monthly basis. Together, with the data-use agreement data used as part of [our Uncounted death certificate project](https://www.muckrock.com/covid-uncounted/), and the WONDER query tool, we routinely pull four sets of data about maternal mortality in the U.S.
 
 The CDC maternal mortality death codes are the following: 
 
@@ -182,9 +184,9 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
   #### Reach out 
   We work to have our reporting and analysis available to a wide audience, often through distribution partnerships and syndication. If you are interested in republishing or adapting our work and it does not explicitly note that it is allowable for republishing, or if you would like clarifications about restrictions or to learn more about the underlying information, please email us at news@muckrock.com.
   #### Acknowledgments
-  Nina Martin of the Center for Investigative Reporting/Reveal worked with MuckRock throughout its data collection and reporting process.
+  Nina Martin of the Center for Investigative Reporting/Reveal worked with MuckRock throughout its data collection and reporting process. For the Minnesota data, MaryJo Webster of the Minneapolis Star-Tribune provided both data and guidance. For the North Carolina data, Tyler Dukes of the Raleigh News & Observer provided code that helped us process the data in a readable format.
   
-  For the CDC data, the following experts provided subject-matter expertise and context for our data analysis: 
+  For the CDC data, the following experts provided subject-matter expertise, data and context for our analyses: 
   
   •	Sungsik Hwang, Graduate Student, Center for Demography and Ecology, University of Wisconsin, Madison
   
@@ -194,9 +196,6 @@ Within the pregnancy checkbox is the following one-digit code and what it refers
   
   •	Dr. Marie Thoma, Associate Professor, Department of Family Science, University of Maryland School of Public Health
     
-  For the Minnesota data, MaryJo Webster of the Minneapolis Star-Tribune provided both data and guidance.
-  
-  For the North Carolina data, Tyler Dukes of the Raleigh News & Observer provided code that helped us process the data in a readable format.
 #### How to cite the data and MuckRock 
 We ask that all republication and citation of our materials include a note that the reporting was originally published by MuckRock and include a link back to the original version. When republishing, this credit should be included at the top of the piece.
 
