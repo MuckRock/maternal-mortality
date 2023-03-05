@@ -53,11 +53,11 @@ Centers for Disease Control and Prevention, National Center for Health Statistic
 
 ### Limitations and caveats of the CDC data
 
-The CDC's maternal mortality data relies exclusively on death certificates. If those death certificates are lacking or omit key information, as we have found as part of our Uncounted project, it skews the overall picture of a cause of death, especially for causes that are comparatively few in number like a pregnancy-related death. 
+The CDC's maternal mortality data relies exclusively on death certificates. If those death certificates are lacking or omit key information, as we have found as part of our Uncounted project, it skews the overall picture, especially for causes that are comparatively few in number like a pregnancy-related death. 
 
-The CDC has told us this data is reviewed and audited on a monthly basis, and checked against what is described in the pregnancy checkbox. But because the pregnancy checkbox detail is not provided for each record, it is diffcult to assess the accuracy of provisional data versus the finalized data, typically six months to one year after the end of the calendar year.
+The CDC has told us this data is reviewed and audited on a monthly basis, and checked against what is described in the pregnancy checkbox. But because this data only looks at pregnancy-related, and not pregnancy-associated deaths, cases where a pregnancy played a key role in a death, such as an accidental drug overdose or a suicide, might not be counted in the CDC data. 
 
-Because this data only looks at pregnancy-related, and not pregnancy-associated deaths, cases where a pregnancy played a key role in a death, such as an accidental drug overdose or a suicide, might not be counted in the CDC data. State-coordinated maternal mortality review committees, or MMRCs, have found that the true number of pregnancy-related deaths is roughly 30% to 40% higher than the CDC figures.
+State-coordinated maternal mortality review committees, or MMRCs, have found that the true number of pregnancy-related deaths is roughly 30% to 40% higher than the CDC figures.
 
 ## Michigan, Minnesota and North Carolina maternal mortality data
 
