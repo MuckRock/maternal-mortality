@@ -1,5 +1,5 @@
 # Maternal mortality data from the CDC and Michigan, Minnesota & North Carolina
-A repository of U.S. maternal mortality data from the Centers for Disease Control and Prevention’s National Center for Health Statistics, from January 2018 through December 2022, encompassing 4,117 pregnancy-related deaths; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in calendar years 2020, 2021 and provisional data from 2022, comprising 607 pregnancy-associated and pregnancy-related deaths.
+A repository of U.S. maternal mortality data from the Centers for Disease Control and Prevention’s National Center for Health Statistics, from January 2018 through December 2022, encompassing 6,193 pregnancy-related deaths; and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths that occurred in calendar years 2020, 2021 and provisional data from 2022, comprising 607 pregnancy-associated and pregnancy-related deaths.
 
 ## About this project
 
