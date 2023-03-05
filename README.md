@@ -3,7 +3,7 @@ A repository of U.S. maternal mortality data from the Centers for Disease Contro
 
 ## About this project
 
-Since the COVID-19 pandemic began in 2020, [MuckRock and Columbia University's Brown Institue for Media Innovation have collected death certificate data]((https://www.muckrock.com/covid-uncounted/)) from a variety of sources, including the CDC and a selection of states and large counties, through data-use agreement with government agencies and open-records requests. Given the spike in maternal deaths in 2020 and 2021, we began seeking out additional data sources to help explain the myriad reasons behind the increase. 
+Since the COVID-19 pandemic began in 2020, [MuckRock and Columbia University's Brown Institue for Media Innovation have collected death certificate data]((https://www.muckrock.com/covid-uncounted/)) from a variety of sources, including the CDC and a selection of states and large counties, through data-use agreements with government agencies and open-records requests. Given the spike in maternal deaths in 2020 and 2021, we began seeking out additional data sources to help explain the reasons behind the increase. 
 
 What we found: COVID-19 severely worsened the health of new mothers in U.S., which already had the worst maternal mortality rate of any Western country. And post-COVID, things are only getting worse. Despite the availability of vaccines and a nationwide push to bolster the health of new and recent mothers, the rate of maternal death in 2022 is already higher than pre-pandemic 2019, based on early, provisional data.
 
