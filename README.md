@@ -40,13 +40,13 @@ The CDC maternal mortality death codes are the following:
 Relying on these 27 cause of death codes, we have compiled four sets of maternal mortality data. They are described below:
 
 
-• ***Maternal mortality count and rate, by quarter and year:*** Through the third quarter of 2022, this maternal mortality count and rate is based on nationwide totals and either an actual or estimated number and rate of live births by the CDC's National Center for Health Statistics. All 2022 data is still provisional and subject to change, as jurisdictions continue to process the previoys years death certificates into 2023. A saved CDC WONDER query for the overall maternal mortality count and a crude population ratio per 100,000 people is [available here](https://wonder.cdc.gov/controller/saved/D176/D297F248).
+• ***Maternal mortality count and rate, by quarter and year:*** Through the third quarter of 2022, this maternal mortality count and rate is based on nationwide totals and either an actual or estimated number and rate of live births by the CDC's National Center for Health Statistics. All 2022 data is still provisional and subject to change, as jurisdictions continue to process the previoys years death certificates into 2023. This dataset only includes women aged 15 to 44 years old, to remain consistent with 2022 birth estimates. A saved CDC WONDER query for the overall maternal mortality count and a crude population ratio per 100,000 people is [available here](https://wonder.cdc.gov/controller/saved/D176/D297F248).
 
-• ***Maternal mortality count and rate, by race:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of white, Black, Asian and Native deaths, as defined by the CDC.
+• ***Maternal mortality count and rate, by race:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of non-Hispanic white, Black, Asian and Native deaths, as defined by the CDC. This dataset includes women of all ages.
 
-• ***Maternal mortality count and rate, by ethnicity:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of non-Hispanic white and Hispanic deaths, as defined by the CDC.
+• ***Maternal mortality count and rate, by ethnicity:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of non-Hispanic and Hispanic deaths, as defined by the CDC. This dataset includes women of all ages.
 
-• ***Maternal mortality count and rate, by state:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of deaths in 24 states where there have been at least nine pregnancy-related deaths each year between 2018 and 2021.
+• ***Maternal mortality count and rate, by state:*** Through the fourth quarter of 2021, this maternal mortality count and rate is based on nationwide totals of deaths in 24 states where there have been at least nine pregnancy-related deaths each year between 2018 and 2021. This dataset includes women of all ages.
 
 
 Below is the suggested citation for the CDC data:
