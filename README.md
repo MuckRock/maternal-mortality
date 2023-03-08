@@ -59,6 +59,8 @@ The CDC's maternal mortality data relies exclusively on death certificates. If t
 
 The CDC has told us this data is reviewed and audited on a monthly basis, and checked against what is described in the pregnancy checkbox. But because this data only looks at pregnancy-related, and not pregnancy-associated deaths, cases where a pregnancy played a key role in a death, such as an accidental drug overdose or a suicide, might not be counted in the CDC data. 
 
+There are also discrepancies when comparing the CDC death certificate data and state data from Michigan, Minnesota and North Carolina, even when looking at an apples-to-apples comparison such as a pregnancy-related death. For example, the CDC reports 67 pregnancy-related deaths in North Carolina in 2020 and 83 for 2021. But North Carolina reports slightly lower counts, of 62 in 2020 and 82 for 2021. The reasons for the differences are unclear, according to researchers, but it could be related to how the state and the CDC define pregnancy-related and pregnancy-checkbox-confirmed deaths.
+
 State-coordinated maternal mortality review committees, or MMRCs, have found that the true number of pregnancy-related deaths is roughly 30% to 40% higher than the CDC figures.
 
 ## Michigan, Minnesota and North Carolina maternal mortality data
