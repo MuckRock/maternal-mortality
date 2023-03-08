@@ -9,7 +9,7 @@ What we found: COVID-19 severely worsened the health of new mothers in U.S., whi
 
 It bears repeating: Multiple studies from both the CDC and state maternal mortality review committees have found that anywhere between 80% and all pregnancy-related deaths are preventable.
 
-Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. ***We'll be refreshing this repository on a monthly basis, beginning March 13 when the CDC releases its final 2021 maternal mortality data. All updates to the data will be noted and appended to the bottom of this readme.***
+Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. **We'll be refreshing this repository on a monthly basis, beginning March 13 when the CDC releases its final 2021 maternal mortality data. All updates to the data will be noted and appended to the bottom of this readme.**
 
 The data in this repository was requested, collected and analyzed by the following data scientists and journalists: Karen Wang, Columbia University's Brown Institute for Media Innovation and MuckRock; Dillon Bergin, MuckRock; and Derek Kravitz, MuckRock.
 
@@ -17,7 +17,7 @@ The data in this repository was requested, collected and analyzed by the followi
 
 Each time we refresh the data with new provisional or final numbers, from the CDC or state vital records offices, we will update it here. 
 
-*March 8, 2023: We have updated the CDC maternal mortality rate by state .csv file to include final live birth data from 2021 from the CDC. This update is also reflected in the 42-day and 1-year maternal mortality rates, which went unchanged from provisional to final.*
+**March 8, 2023: We have updated the CDC maternal mortality rate by state .csv file to include final live birth data from 2021 from the CDC. This update is also reflected in the 42-day and 1-year maternal mortality rates, which went unchanged from provisional to final.**
 
 ## Glossary of maternal mortality terms
 
