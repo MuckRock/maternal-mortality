@@ -19,6 +19,8 @@ Each time we refresh the data with new provisional or final numbers, from the CD
 
 **March 8, 2023: We have updated the CDC maternal mortality rate by state .csv file to include final live birth data from 2021 from the CDC. This update is also reflected in the 42-day and 1-year maternal mortality rates, which went unchanged from provisional to final.**
 
+**March 10, 2023: We have updated the Michigan, Minnesota and North Carolina pregnancy-related and pregnancy-associated death counts, to include a subset of deaths that occurred between the ages of 15 through 44. These slightly smaller counts increase the likelihood that each death is related or associated with complications due to pregnancy and decreases the likelihood of a coding error on the part of state or federal agencies.**
+
 ## Glossary of maternal mortality terms
 
 | term | description  
@@ -128,11 +130,11 @@ A data dictionary of all of the Michigan death certificate data is available in 
 
 The Michigan data does not include pregnancy checkbox information but it does include both underlying cause of death and multiple cause of death codes.
 
-The following counts of pregnancy-related deaths in Michigan by year, are as follows:
+The following counts of pregnancy-related deaths in Michigan by year, are as follows, with a separate figure provided for the ages of 15 through 44:
 
-•	2020: 40
+•	2020: 40 *(39 between the ages of 15 through 44)
 
-•	2021: 35
+•	2021: 35 *(34 between the ages of 15 through 44)
 
 ### Minnesota
 
@@ -140,14 +142,14 @@ Depending on the year, the Minnesota dataset includes either 113 or 114 fields, 
 
 A data dictionary for Minnesota data in its original form is available in this repository — mn_maternal_mortality_data_dictionary.xls — and fields highlighted in yellow have been excluded from this public release in order to preserve identification of the decedent or next of kin.
 
-The data is sorted into final year 2020, final year 2021 and provisional year 2022, with a filter on deaths that have been indicated as recently (within 1 year) or currently pregnant at the time of death. The following counts of pregnancy checkbox deaths in Minnesota, oftentimes referred to by researchers as pregnancy-associated deaths, are as follows:
+The data is sorted into final year 2020, final year 2021 and provisional year 2022, with a filter on deaths that have been indicated as recently (within 1 year) or currently pregnant at the time of death. The following counts of pregnancy checkbox deaths in Minnesota, oftentimes referred to by researchers as pregnancy-associated deaths, are as follows, with a separate figure provided for the ages of 15 through 44:
 
 
-•	2020: 33
+•	2020: 33 *(31 between the ages of 15 through 44)
 
-•	2021: 38
+•	2021: 38 *(38 between the ages of 15 through 44)
 
-•	2022 (as of March 2023, provisional): 18
+•	2022 (as of March 2023, provisional): 18 *(18 between the ages of 15 through 44)
 
 
 Within the Minnesota dataset are pregnancy checkbox details — a one-digit code and full text terms used to describe the type of pregnancy at the time of decedent’s death. They are as follows:
@@ -175,11 +177,11 @@ A data dictionary for North Carolina data in its original form is available in t
 The data is sorted into final year 2020, final year 2021 and provisional year 2022, with a filter on deaths that have been indicated as recently (within 1 year) or currently pregnant at the time of death. The following counts of pregnancy checkbox deaths in North Carolina, oftentimes referred to by researchers as pregnancy-associated deaths, are as follows:
 
 
-•	2020: 147
+•	2020: 147 *(138 between the ages of 15 through 44)
 
-•	2021: 174
+•	2021: 174 *(138 between the ages of 15 through 44)
 
-•	2022 (as of March 2023, provisional): 122
+•	2022 (as of March 2023, provisional): 122 *(110 between the ages of 15 through 44)
 
 
 Within the pregnancy checkbox is the following one-digit code and what it refers to:
