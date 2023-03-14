@@ -9,7 +9,7 @@ What we found: COVID-19 severely worsened the health of new mothers in U.S., whi
 
 It bears repeating: Multiple studies from both the CDC and state maternal mortality review committees have found that anywhere between 80% and all pregnancy-related deaths are preventable.
 
-Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. **We'll be refreshing this repository on a monthly basis, beginning March 13 when the CDC releases its final 2021 maternal mortality data. All updates to the data will be noted and appended to the bottom of this readme.**
+Below, you'll find a methodology for the datasets in this repository, including their utility, limitations and caveats. **We'll be refreshing this repository on a monthly basis. All updates to the data will be noted and appended to the bottom of this readme.**
 
 The data in this repository was requested, collected and analyzed by the following data scientists and journalists: Karen Wang, Columbia University's Brown Institute for Media Innovation and MuckRock; Dillon Bergin, MuckRock; and Derek Kravitz, MuckRock.
 
