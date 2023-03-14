@@ -21,7 +21,7 @@ Each time we refresh the data with new provisional or final numbers, from the CD
 
 **March 10, 2023: We have updated the Michigan, Minnesota and North Carolina pregnancy-related and pregnancy-associated death counts, to include a subset of deaths that occurred between the ages of 15 through 44. These slightly smaller counts increase the likelihood that each death is related or associated with complications due to pregnancy and decreases the likelihood of a coding error on the part of state or federal agencies.**
 
-**March 10, 2023: We have included a statement from the CDC's National Center for Health Statistics that addresses discrepancies in the number of pregnancy-related deaths in North Carolina, between the CDC and state vital records counts. 
+**March 10, 2023: We have included a statement from the CDC's National Center for Health Statistics that addresses discrepancies in the number of pregnancy-related deaths in North Carolina, between the CDC and state vital records counts.**
 
 ## Glossary of maternal mortality terms
 
