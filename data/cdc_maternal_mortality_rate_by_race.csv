@@ -1,9 +1,9 @@
-﻿Year,Asian,Black or African American,More than one race,White,Grand Total,category
-2018,13.29,37.32,11.93,14.87,77.41,Within 42 days of childbirth
-2019,13.82,43.97,,17.90,75.70,Within 42 days of childbirth
-2020,12.32,55.30,16.62,19.09,103.34,Within 42 days of childbirth
-2021 (provisional),16.84,69.90,,26.65,113.38,Within 42 days of childbirth
-2018,16.20,53.80,15.50,23.05,108.55,Within one year of childbirth
-2019,18.01,65.87,,25.21,109.09,Within one year of childbirth
-2020,20.09,80.59,21.37,28.80,150.85,Within one year of childbirth
-2021 (provisional),24.32,100.21,,36.39,160.93,Within one year of childbirth
+﻿Year,deaths: Asian,live births: Asian,rate: Asian,deaths: Black or African American,live births: Black or African American,rate: Black or African American,deaths: more than one race,live births: more than one race,rate: more than one race,deaths: white,live births: white,rate: white,category
+2018,32,240798,13.29,206,552029,37.32,10,83853,11.93,291,1956413,14.87,Within 42 days of childbirth
+2019,33,238769,13.82,241,548075,43.97,-,84310,-,343,1915912,17.90,Within 42 days of childbirth
+2020,27,219068,12.32,293,529811,55.30,14,84238,16.62,352,1843432,19.09,Within 42 days of childbirth
+2021 (provisional),36,213813,16.84,362,517889,69.90,19,86982,21.84,503,1887656,26.65,Within 42 days of childbirth
+2018,39,240798,16.20,297,552029,53.80,13,83853,15.50,451,1956413,23.05,Within one year of childbirth
+2019,43,238769,18.01,361,548075,65.87,-,84310,-,483,1915912,25.21,Within one year of childbirth
+2020,44,219068,20.09,427,529811,80.59,18,84238,21.37,531,1843432,28.80,Within one year of childbirth
+2021 (provisional),52,213813,24.32,519,517889,100.21,25,86982,28.74,687,1887656,36.39,Within one year of childbirth

@@ -1,9 +1,9 @@
-﻿Year,Hispanic or Latino,Not Hispanic or Latino,Category
-2018,11.85,19.22,Within 42 days of childbirth
-2019,12.63,22.62,Within 42 days of childbirth
-2020,18.23,25.91,Within 42 days of childbirth
-2021,27.99,34.90,Within 42 days of childbirth
-2018,16.81,28.66,Within one year of childbirth
-2019,19.74,32.67,Within one year of childbirth
-2020,27.46,38.67,Within one year of childbirth
-2021,39.73,48.54,Within one year of childbirth
+﻿Year,deaths: Hispanic or Latino,live births: Hispanic or Latino,rate: Hispanic or Latino,deaths: not Hispanic or Latino,live births: not Hispanic or Latino,rate: not Hispanic or Latino,Category
+2018,105,886210,11.85,552,2871661,19.22,Within 42 days of childbirth
+2019,112,886467,12.63,639,2825286,22.62,Within 42 days of childbirth
+2020,158,866713,18.23,703,2712988,25.91,Within 42 days of childbirth
+2021,248,885916,27.99,957,2741995,34.9,Within 42 days of childbirth
+2018,149,886210,16.81,823,2871661,28.66,Within one year of childbirth
+2019,175,886467,19.74,923,2825286,32.67,Within one year of childbirth
+2020,238,866713,27.46,1049,2712988,38.67,Within one year of childbirth
+2021,352,885916,39.73,1331,2741995,48.54,Within one year of childbirth
