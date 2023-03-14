@@ -23,6 +23,8 @@ Each time we refresh the data with new provisional or final numbers, from the CD
 
 **March 10, 2023: We have included a statement from the CDC's National Center for Health Statistics that addresses discrepancies in the number of pregnancy-related deaths in North Carolina, between the CDC and state vital records counts.**
 
+**March 14, 2023: We added columns showing raw death counts and live births in cdc_maternal_mortality_rate_by_race.csv, cdc_maternal_mortality_rate_by_state.csv, and cdc_maternal_mortality_rate_ethnicity.csv files to show how rates were calculated. We also updated the multiracial rate for 2021 since it was previously suppressed by CDC due to low count.**
+
 ## Glossary of maternal mortality terms
 
 | term | description  
