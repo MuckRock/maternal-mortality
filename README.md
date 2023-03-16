@@ -25,6 +25,8 @@ Each time we refresh the data with new provisional or final numbers, from the CD
 
 **March 14, 2023: We added columns showing raw death counts and live births in cdc_maternal_mortality_rate_by_race.csv, cdc_maternal_mortality_rate_by_state.csv, and cdc_maternal_mortality_rate_ethnicity.csv files to show how rates were calculated. We also updated the multiracial rate for 2021 since it was previously suppressed by CDC due to low count.**
 
+**March 15, 2023: The CDC has finalized its 2021 maternal mortality rates and counts and rates were unchanged from this repository's original release. All references to 2021 data being provisional have now been changed to final.**
+
 ## Glossary of maternal mortality terms
 
 | term | description  
